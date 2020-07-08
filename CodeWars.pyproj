@@ -35,6 +35,10 @@
     </Compile>
     <Compile Include="CountDupes.py" />
     <Compile Include="CowsBulls.py" />
+    <Compile Include="RemoveDuplicates.py" />
+    <Compile Include="Replace Alphabet.py" />
+    <Compile Include="ReverseWord.py" />
+    <Compile Include="RGB.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.8-32" />
