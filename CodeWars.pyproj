@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ffdb9e19-0507-42fe-9976-659255056db6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>permutation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +34,9 @@
     </Compile>
     <Compile Include="CountDupes.py" />
     <Compile Include="CowsBulls.py" />
+    <Compile Include="permutation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="RemoveDuplicates.py" />
     <Compile Include="Replace Alphabet.py" />
     <Compile Include="ReverseWord.py" />
