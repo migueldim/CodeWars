@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ffdb9e19-0507-42fe-9976-659255056db6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>permutation.py</StartupFile>
+    <StartupFile>increment_string.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,6 +34,12 @@
     </Compile>
     <Compile Include="CountDupes.py" />
     <Compile Include="CowsBulls.py" />
+    <Compile Include="increment_string.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="operators.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="permutation.py">
       <SubType>Code</SubType>
     </Compile>
